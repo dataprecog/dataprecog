@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is where I store my open-source projects.
+
+If you have a job offer, feel free to drop me an email: info@dataprecog.com
+
+Or visit my website: www.dataprecog.com
+
+
 <!--
 **dataprecog/dataprecog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
